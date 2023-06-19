@@ -1,4 +1,4 @@
-# Book_Strore_Application_API
+# Book_Store_Application_API
 
 
 There are 5 Api's.
