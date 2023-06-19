@@ -2,7 +2,7 @@
 
 Intallation ---
 
-Step 1 : Download NODE.JS, VS Code, MongoDB.
+Step 1 : Download NODE.JS, VS Code, MongoDB. <br>
 Step 2 : Use NPM to install Dependencies ( express.js, mongoose, nodemon )
 
 
