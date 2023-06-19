@@ -1,5 +1,10 @@
 # Book_Store_Application_API
 
+Intallation ---
+
+Step 1 : Download NODE.JS, VS Code, MongoDB.
+Step 2 : Use NPM to install Dependencies ( express.js, mongoose, nodemon )
+
 
 There are 5 Api's.
 
