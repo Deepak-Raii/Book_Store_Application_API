@@ -8,7 +8,7 @@ Step 2 : Use NPM to install Dependencies ( express.js, mongoose, nodemon )
 
 There are 5 Api's.
 
-1. We can add Item.    | Method : Post |  localhost:3000/api/items
+1. We can add Item.    | Method : Post | Endpoints -  localhost:3000/api/items
 
 2. We can see all the items with pagination      | Method : Get | Endpoints - localhost:3000/api/items
 
